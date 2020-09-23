@@ -50,11 +50,6 @@ My hubbys are swimming, running, watching movies and reading.
 
 `<p>This is a paragraph</p>`
 
-<!-- Images -->
-
-![Markdown Logo](https://markdown-here.com/img/icon265.png)
-
-
 <!-- Github Markdown-->
 
 <!-- Code Block -->
