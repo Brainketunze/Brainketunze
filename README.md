@@ -14,7 +14,7 @@ My hubbys are swimming, running, watching movies and reading.
 **Students** In _HackYourFuture 2020/2021_
  <http://hackyourfuture.be/>
   
-  * Studying how code on,
+  * Studying,
 
      1. HTML
      2. CSS
