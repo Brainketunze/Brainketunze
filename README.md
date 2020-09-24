@@ -14,7 +14,7 @@ My hubbys are swimming, running, watching movies and reading.
 **Students** In _HackYourFuture 2020/2021_
  <http://hackyourfuture.be/>
   
-  * Studying how code on,
+  * Studying,
 
      1. HTML
      2. CSS
@@ -91,7 +91,10 @@ My hubbys are swimming, running, watching movies and reading.
 <!-- Landen-->
 
 ###### Landen is found in the flanders part in Belgium #####
+<<<<<<< HEAD
 
 GitHub supports emoji!
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :carousel_horse:
+=======
+>>>>>>> master
