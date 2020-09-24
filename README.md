@@ -91,7 +91,7 @@ My hubbys are swimming, running, watching movies and reading.
 <!-- Landen-->
 
 ###### Landen is found in the flanders part in Belgium #####
-<<<<<<< HEAD
+<!<<<<<< HEAD >>>>>
 
 ##### GitHub supports emoji! ######
 :+1: :sparkles: :camel: :tada:
