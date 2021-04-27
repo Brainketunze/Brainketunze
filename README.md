@@ -25,8 +25,6 @@ My hubbys are swimming, running, watching movies and reading.
 
 [Our website](http://hackyourfuture.be)
 
-[Our website](http://hackyourfuture.be "Our website")
-
 <!-- Images --->
 
 [Coffee Img][https://unsplash.com/images/food/coffee]
