@@ -1,4 +1,4 @@
-## Bio ##
+### WELCOME TO MY GITHUB PAGE
 
 * 😄 **My name is Brain ketunze and I am happy to see you here** 
 * 🔭 **Currently studying web developement at HackYourFuture Belgium** 
