@@ -1,38 +1,16 @@
 ## Bio ##
 
-I'm call **Brain Ketunze** from **_Cameroon_**, the southern part that speak __**English**__ as their mother tongue. I am married and have one duaghter. I have Advance Master degree in Gerontology in [VUB](https://www.vub.be/). I live with my family in Landen. 
-My hubbys are swimming, running, watching movies and reading.
-
-<!-- First class subgrp mates-->
-
-#### Sub-grp names #### 
-
-1. Preeti
-2. Repheal-Gracia
-3. Maria
-
-**Students** In _HackYourFuture 2020/2021_
- <http://hackyourfuture.be/>
-  
-  * Studying,
-
-     1. HTML
-     2. CSS
-     3. JS
-     4. etc 
-   
-<!-- Webpage -->
-
-[Our website](http://hackyourfuture.be)
-
-<!-- Images --->
-
-[Coffee Img][https://unsplash.com/images/food/coffee]
-
-
-<!-- Landen-->
-
-###### Landen is found in the flanders part in Belgium #####
+* 😄 **My name is Brain ketunze and I am happy to see you here** 
+* 🔭 **Currently studying web developement at HackYourFuture Belgium** 
+* 📫 **If you have any qestions you can reach me:** 📥 brainketunze@gmail.com
+* ❤️ **I love:** 
+    * 💻 _Coding_
+    * 🎿 _Skiing_
+    * 🚴 _Cycling_
+    * 🌏 _Traveling_ 
+    * 🔧 _Problems solving_
+    * _Team work_
+ * 🌐 **[Home Page]()**
 
 <!--HEAD-->
 ##### GitHub supports emoji! ######
