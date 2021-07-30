@@ -10,7 +10,7 @@
     * 🌏 _Traveling_ 
     * 🔧 _Problems solving_
     * _Team work_
- * 🌐 **[Home Page]()**
+ * 🌐 **[Home Page](https://github.com/Brainketunze/Brainketunze)**
 
 <!--HEAD-->
 ##### GitHub supports emoji! ######
