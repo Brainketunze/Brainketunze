@@ -9,7 +9,7 @@
     * 🚴 _Cycling_
     * 🌏 _Traveling_ 
     * 🔧 _Problems solving_
-    * _Team work_
+    * _Team work spirit_
  * 🌐 **[Home Page](https://github.com/Brainketunze/Brainketunze)**
 
 <!--HEAD-->
