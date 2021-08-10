@@ -16,13 +16,8 @@
     
     4 _Team work spirit_
     
- * 🌐 **[Github](https://github.com/Brainketunze/Brainketunze)**
+  **[Github](https://github.com/Brainketunze/Brainketunze)**
 
-### Connect with me
-
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/aayushk47/)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />](https://www.instagram.com/aayushkurup/)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />](https://twitter.com/AayushK_47)
 
 ### Languages and Tools
 
