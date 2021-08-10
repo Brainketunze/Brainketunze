@@ -1,8 +1,8 @@
 
 
-###  Hi there, I'm Brain ketunze 👋
+#  Hi there, I'm Brain ketunze 👋
  
-- 🔭 **Currently studying web developement at HackYourFuture Belgium** 
+## 🔭 **Currently studying web developement at HackYourFuture Belgium** 
 
 - 📫 **If you have any qestions you can reach me:** 📥 brainketunze@gmail.com
 
