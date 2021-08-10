@@ -1,30 +1,30 @@
 
 
-#  Hi there, I'm Brain ketunze 👋
+###  Hi there, I'm Brain ketunze 👋
  
-## 🔭 **Currently studying web developement at HackYourFuture Belgium** 
+- 🔭 **Currently studying web developement at HackYourFuture Belgium** 
 
-* 📫 **If you have any qestions you can reach me:** 📥 brainketunze@gmail.com
+- 📫 **If you have any qestions you can reach me:** 📥 brainketunze@gmail.com
 
 - ❤️ What I really love doing:- 
 
-    * 💻 _Coding_
+    1 💻 _Coding_
    
-    * 🌏 _Traveling_ 
+    2 🌏 _Traveling_ 
      
-    * 🔧 _Problems solving_
+    3 🔧 _Problems solving_
     
-    * _Team work spirit_
+    4 _Team work spirit_
     
- * 🌐 **[Home Page](https://github.com/Brainketunze/Brainketunze)**
+ * 🌐 **[Github](https://github.com/Brainketunze/Brainketunze)**
 
-## Connect with me
+### Connect with me
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/aayushk47/)
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />](https://www.instagram.com/aayushkurup/)
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />](https://twitter.com/AayushK_47)
 
-## Languages and Tools
+### Languages and Tools
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> &nbsp;
