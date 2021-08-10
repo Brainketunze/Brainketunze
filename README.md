@@ -2,7 +2,7 @@
 
 #  Hi there, I'm Brain ketunze 👋
  
-## 🔭 **Currently studying web developement at HackYourFuture Belgium** 
+## 🔭 **Currently studying web developement at hyf** 
 
 - 📫 **If you have any qestions you can reach me:** 📥 brainketunze@gmail.com
 
@@ -16,7 +16,7 @@
     
     4 _Team work spirit_
     
-  **[Github](https://github.com/Brainketunze/Brainketunze)**
+ - **[Github](https://github.com/Brainketunze/Brainketunze)**
 
 
 ### Languages and Tools
